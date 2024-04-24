@@ -1,5 +1,6 @@
 ---
-layout: categories
-icon: fas fa-stream
-order: 3
+layout: recipes
+icon: fas fa-clipboard-list
+order: 2
+
 ---
