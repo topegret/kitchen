@@ -16,10 +16,10 @@ timezone: America/Chicago
 
 title: Tso's Kitchen # the main title
 
-tagline: Accurate recipes for the Chinese cuisine DIYers # it will display as the sub-title
+tagline: Easy to follow and the most accurate recipes for Chinese cuisine DIYers # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
- the accurate recipes for Chinese cuisine DIYers. Chinese restaurants' recipes. Easy to follow Chinese Cuisine recipes 
+ Easy to follow and the most accurate recipes for Chinese cuisine DIYers. Chinese restaurants' recipes. Easy to follow Chinese cuisine recipes 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
