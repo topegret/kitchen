@@ -113,4 +113,4 @@ Based on the above table, we can draw some conclusions:
 
 ## Other 
 
-For other raw materials and/or tools for each recipe, please refer to the `Required Raw Materials and Tools` session of the [dish](/recipes/) itself.
+For other raw materials and/or tools for each recipe, please refer to the `Required Raw Materials and Tools` session of the [dish]({% link _tabs/recipes.md %}) itself.
