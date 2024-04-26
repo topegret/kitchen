@@ -7,103 +7,55 @@ toc: true
 
 ---
 
-This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
+There's this ancient Chinese saying, "工欲善其事，必先利其器" (gōng yù shàn qí shì, bì xiān lì qí qì)" which translates to "To do a good job, an artisan needs the best tools." This proverb emphasizes the importance of having the right equipment or resources when undertaking a task or endeavor. It suggests that in order to excel in any endeavor, whether it be work, art, or any other pursuit, it is essential to have the proper tools or resources at one's disposal. Only then can one truly achieve excellence and mastery in their craft. Cooking Chinese cuisine is no exception.
 
-## Naming and Path
+In addition to a traditional western kitchen setup, let's assume that you already have the following items in your kitchen. These items are not mentioned in the raw materials, tools, and recipes section.
 
-Create a new file named `YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} and put it in the `_posts`{: .filepath} of the root directory. Please note that the `EXTENSION`{: .filepath} must be one of `md`{: .filepath} and `markdown`{: .filepath}. If you want to save time of creating files, please consider using the plugin [`Jekyll-Compose`](https://github.com/jekyll/jekyll-compose) to accomplish this.
+## Utensils
 
-## Front Matter
-
-Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-matter/) as below at the top of the post:
-
-```yaml
----
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
----
-```
-
-> The posts' _layout_ has been set to `post` by default, so there is no need to add the variable _layout_ in the Front Matter block.
-{: .prompt-tip }
-
-### Timezone of Date
-
-In order to accurately record the release date of a post, you should not only set up the `timezone` of `_config.yml`{: .filepath} but also provide the post's timezone in variable `date` of its Front Matter block. Format: `+/-TTTT`, e.g. `+0800`.
-
-### Categories and Tags
-
-The `categories` of each post are designed to contain up to two elements, and the number of elements in `tags` can be zero to infinity. For instance:
-
-```yaml
----
-categories: [Animal, Insect]
-tags: [bee]
----
-```
+> | [wok](https://amzn.to/44jbwfS){:target="_blank"}|  ![wok](https://m.media-amazon.com/images/I/31Y88bY3oBL._AC_US75_.jpg) | [steamer](https://amzn.to/44k9j3M){:target="_blank"} | ![steamer for cooking](https://m.media-amazon.com/images/I/51Jfq9SX25L._AC_US75_.jpg) | [clay pot](https://amzn.to/4bbqhDz){:target="_blank"} | ![clay pot](https://m.media-amazon.com/images/I/31ynbNYFk-L._AC_US75_.jpg) |
+> | [rice cooker](https://amzn.to/3UxnY8l){:target="_blank"} | ![rice cooker](https://m.media-amazon.com/images/I/31EZ-jssQRL._AC_US75_.jpg) | [chopsticks](https://amzn.to/49Sq7jw){:target="_blank"} | ![chopsticks](https://m.media-amazon.com/images/I/51cd04HBJwS._AC_US75_.jpg)  |  [rolling pin](https://amzn.to/4aSsVOE){:target="_blank"} | ![rolling pin](https://m.media-amazon.com/images/I/31Xn7M5cqoL._AC_US75_.jpg) |
+> | [soup spoon](https://amzn.to/44eMrma){:target="_blank"} | ![soup spoon](https://m.media-amazon.com/images/I/51DMPm24o5L._AC_US75_.jpg)  | [spatula & ladle](https://amzn.to/3xTqOvu){:target="_blank"} | ![spatula and ladle](https://m.media-amazon.com/images/I/3149ivsTD1L._AC_US75_.jpg) |  [strainer ](https://amzn.to/4bbqhDz){:target="_blank"} | ![strainer](https://m.media-amazon.com/images/I/31j9f0Gqs1L._AC_US75_.jpg)|
+> | [kitchen knife](https://amzn.to/3wbvNaq){:target="_blank"}| ![kitchn knife](https://m.media-amazon.com/images/I/41zzg7RPcaL._AC_US75_.jpg)| [kettle](https://amzn.to/3UzVNFV){:target="_blank"} | ![kettle](https://m.media-amazon.com/images/I/41NK2UprYVS._AC_US75_.jpg) |
 
 
-There is this ancient Chinese saying "工欲善其事，必先利其器" (gōng yù shàn qí shì, bì xiān lì qí qì) translates to "To do a good job, an artisan needs the best tools." This proverb emphasizes the importance of having the right equipment or resources when undertaking a task or endeavor. It suggests that in order to excel in any endeavor, whether it be work, art, or any other pursuit, it is essential to have the proper tools or resources at one's disposal. Only then can one truly achieve excellence and mastery in their craft. Cooking is not an exceptional. 
+## Spices and Sauces
 
-Before reading and referring to the recipe, beside traditional western kitcken's setup, let's assume that you already have the following items in your kitchen. These items are not mentioned in the raw mterials, tools and recipes section.
+The following items are staples in Chinese cooking. To save time and ensure you always have them on hand, consider purchasing them in advance for your kitchen.
 
-```text
-wok,steamer,stockpot,rice cooker,chopsticks,soup spoon,strainer,raw food cutting board,cooked food cutting board,kettle
-```
+### Spices
 
-The following ingridient may be used at high frequency in Chinese cuisine. It is recommended to purchase them for the kitchen in advance and always ensure that there are available.
+>| 五香粉 (wǔ xiāng fěn) | [five-spice powder](https://amzn.to/3JBHvOI){:target="_blank"} | ![five-spice powder](https://m.media-amazon.com/images/I/419vaxikk+L._SX38_SY50_CR,0,0,38,50_.jpg) |
+>| 黑胡椒 (hēi hú jiāo) | [ground black](https://amzn.to/4bcb597){:target="_blank"} | ![ground White pepper](https://m.media-amazon.com/images/I/51y7wdMW6RL._SX38_SY50_CR,0,0,38,50_.jpg) |
+>| 白胡椒 (bái hú jiāo) | [ground white pepper](https://amzn.to/3QiMFTs){:target="_blank"} | ![ground White pepper](https://m.media-amazon.com/images/I/410Nt+6-naL._SX38_SY50_CR,0,0,38,50_.jpg)|
+>| 淀粉 (diàn fěn) | [starch](https://amzn.to/3QjM4kk){:target="_blank"} | ![starch](https://m.media-amazon.com/images/I/51b7AXWN+tL._SX38_SY50_CR,0,0,38,50_.jpg) |
+>| 花椒 (huā jiāo) | Sichuan peppercorns | image |
+>| 八角 (bā jiǎo) | Star anise | image |
+>| 桂皮 (guì pí) | Cassia bark | image |
+>| 香叶 (xiāng yè) | Fragrant bay leaves | image |
 
-```text
-Vegetables:
 
-大葱 (dà cōng) - Scallions (green onions)
-小葱 (xiǎo cōng) - Chives
-生姜 (shēng jiāng) - Ginger
-大蒜 (dà suàn) - Garlic
-花椒 (huā jiāo) - Sichuan peppercorns
-八角 (bā jiǎo) - Star anise
-桂皮 (guì pí) - Cassia bark
-香叶 (xiāng yè) - Fragrant bay leaves
-
-Spices and Sauces:
-
-干辣椒 (gān là jiāo) - Dried red chili peppers
-小米椒 (xiǎo mǐ jiāo) - Bird's eye chilies
+### Sauces
 生抽 (shēng chōu) - Light soy sauce
 老抽 (lǎo chōu) - Dark soy sauce
 蚝油 (háoyóu) - Oyster sauce
 料酒 (liào jiǔ) - Chinese cooking wine (Shaoxing wine)
 黑醋 (hēi cù) - Black vinegar (Chinkiang vinegar)
 白醋 (bái cù) - White vinegar
-豆瓣酱 (dòubàn jiàng) - Doubanjiang (fermented broad bean paste)
-冰糖 (bīng táng) - Rock sugar
-棉白糖 (mián bái táng) - Granulated sugar
-盐 (yán) - Salt
+
+### Herbs
+
+大葱 (dà cōng) - Scallions (green onions)
+小葱 (xiǎo cōng) - Chives
+生姜 (shēng jiāng) - Ginger
+大蒜 (dà suàn) - Garlic
+
+### Question Mark
+
 味精/鸡精 (wèijīng/jī jīng) - Monosodium glutamate (MSG) or chicken bouillon powder
-Other:
-
-黑胡椒 (hēi hú jiāo) - Black peppercorns
-白胡椒 (bái hú jiāo) - White peppercorns
-五香粉 (wǔ xiāng fěn) - Five-spice powder
-玉米淀粉 (yù mì diàn fěn) - Cornstarch
-番薯淀粉 (fān shǔ diàn fěn) - Potato starch
-```
 
 
 
-如果你非常想追求形式化、标准化和仪式感，并且想拥有一个与众不同的有趣厨房，那就同样采购下列内容：
-
-```text
-电子秤（或天平）、游标卡尺、量筒、停表、烧杯、测温枪、移液器
-```
-
-如果你想节约时间，可以购买半成品并简单处理后食用：
-
-```text
-预炸过的炸鸡块、冷冻手抓饼、包好的饺子、袋装咖喱、各种丼类（盖饭）、自热食品、拌面料包、外卖包、方便食品
-```
 
 其它针对每道菜的原材料，请具体参考菜品本身的`所需原材料`章节。
 
