@@ -4,7 +4,7 @@ icon:  fa-solid fa-kitchen-set
 order: 1
 title: Kitchen Preparation
 toc: true 
-
+recipe: false
 ---
 
 There's this ancient Chinese saying, "工欲善其事，必先利其器" (gōng yù shàn qí shì, bì xiān lì qí qì)" which translates to "To do a good job, an artisan needs the best tools." This proverb emphasizes the importance of having the right equipment or resources when undertaking a task or endeavor. It suggests that in order to excel in any endeavor, whether it be work, art, or any other pursuit, it is essential to have the proper tools or resources at one's disposal. Only then can one truly achieve excellence and mastery in their craft. Cooking Chinese cuisine is no exception.

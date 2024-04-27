@@ -45,7 +45,7 @@ layout: compress
             {% endfor %}
           </aside>
         </div>
-         {% if page.url != '/prepare/' or page.url != '/advanced/' %}
+         {% if page.recipe != false %}
           
         <div class="row">
           <!-- tail -->
@@ -58,6 +58,7 @@ layout: compress
             {% include_cached footer.html lang=lang %}
           </div>
         </div>
+
        {% endif %}
         {% include_cached search-results.html lang=lang %}
       </div>
