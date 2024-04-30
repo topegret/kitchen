@@ -61,9 +61,9 @@ tail_includes:
               {{ site.data.locales[lang].post.pageview_measure }}
             </span>
           {% endif %}
-
-          <!-- read time -->
-          {% include read-time.html content=content prompt=true lang=lang %}
+       {%if page.recipe != false %}
+        Preparing Time:  {{page.prepare_time }} 
+       {% endif %}
         </div>
       </div>
     </div>

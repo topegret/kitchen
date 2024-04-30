@@ -44,7 +44,9 @@ refactor: true
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
+  {%if post.recipe !=false %}
     <article class="card-wrapper card row g-0 flex-md-row-reverse ">
+      
       <a href="{{ post.url | relative_url }}" class="post-preview ">
         {% assign card_body_col = '12' %}
 
@@ -108,6 +110,7 @@ refactor: true
         </div>
       </a>
     </article>
+    {% endif %}
   {% endfor %}
 </div>
 <!-- #post-list -->

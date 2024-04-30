@@ -2,46 +2,42 @@
 layout: post
 title:  "Rice Cooker Rice"
 date:   2000-01-30 07:00:06 -0500
+description:  Staple in Chinese Cuisine
 categories: [Staple,Rice]
 tags: [Rice]
 prepare_time: "15 minutes" 
 ---
 
-# 电饭煲蒸米饭的做法
+## Essential Ingredients and Tools
 
-## 必备原料和工具
+* [Rice Cooker](https://amzn.to/4a14wFF){:target="_blank"} [^1]
+* White Rice (long , medium or short grain) 
+* Water
 
-* 电饭煲
-* 江南米或北方大米
-* 水
+
+[^1]: [Instant Pot&trade;](https://amzn.to/4beBFOY){:target="_blank"} can be used as an alternative.
 
 ## Quantitative calculation
 
-* 一般一个人可以食用 100ml-200ml 的米。
+* Generally, one consumes 6~8 oz of rice per meal
 
-指尖量水法 （用于精准确定米水量的方法）
+### Fingertip water measurement method:（method used to accurately determine the amount of water in rice）
 
-* 江南米，米和水放在电饭煲的容器内，食指触及米时，水量能刚好没过食指的第一个指节的**一半的一半**。
-* 北方大米，米和水放在电饭煲的容器内，食指触及米，水量能刚好没过食指的第一个指节。
+* place rice and water in the rice cooker container. When the index finger touches the rice, the water level should just cover half of the first knuckle of the index finger. 
 
-使用上述条件，Quantitative calculation出计划使用的原材料比例。
+## Step-by-step Instructions
 
-## 操作
+* Rinse the rice thoroughly.
+* Add the rice and water to the rice cooker.
+* Connect the rice cooker to the power source and enter cook mode. Wait approximately 30 minutes.
+* Wait until the rice cooker automatically switch to warm mode.
+* Simmer the rice in the rice cooker for another 10-15 minutes.
+* Serve. 
 
-* 清洗米
-* 将米和水一起加入电饭煲中。
-* 连接电饭煲电源，进入加热模式。等待大约 30 分钟。
-* 待电饭煲自动进入保温模式后。
-* 将米在电饭煲中闷 10-15 分钟。
-* 盛出米。
+![rice cooker](/assets/img/recipes/rice_cooker.jpg){: .shadow }
 
-## 附加内容
+## Tips
+- Variations in rice types and water quantities can significantly impact the taste.
+- For further guidance, consult the instruction manual of your rice cooker.
 
-- 技术总结
-  - 不论什么容器，水的量都是可以使用“指尖量水法”煮出好米饭。
-  - 水的多少是能够严重影响一碗好米饭的口感。
-  - 南方一般食用江南米，北方一般食用北方大米，江南米会比较细长，而北方大米会比较短且圆。
-  - 米饭不同品种的米，不同的水量会极度影响口感。
-- 更多信息请参考使用的电饭煲的说明书。
-
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。
+---

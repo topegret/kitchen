@@ -1,39 +1,37 @@
 ---
 layout: post
-title:  "Pot Steam Rice"
-date:   2000-01-02 09:00:26 -0500
+title:  "Steam Rice"
+date:   2000-01-30 07:00:06 -0500
+description:  Staple in Chinese Cuisine, cook rice right without rice cooker
 categories: [Staple,Rice]
 tags: [Rice]
 prepare_time: "15 minutes" 
 ---
+## Essential Ingredients and Tools
 
-# 煮锅蒸米饭的做法
-
-## 必备原料和工具
-
-- 北方大米
-- 水
-- 厚底煮锅+严丝合缝的锅盖（制作过程中不会有大量蒸汽泄漏）
+* Regular cooking pot with a tight lid.
+* White Rice (long , medium or short grain) 
+* Water
 
 ## Quantitative calculation
 
-- 米：100ml-200ml/人
-- 水：米的体积的 2 倍
+* Generally, one consumes 6~8 oz of rice per meal
 
-## 操作
+### Fingertip water measurement method:（method used to accurately determine the amount of water in rice）
 
-- 清洗大米
-- 将米和水加入煮锅
-- 大火煮至水沸腾
-- **搅拌底部防止粘黏**
-- 盖上锅盖，转**小火**加热 10-15 分钟（根据对软糯程度的喜好），中途切勿打开锅盖
-- 关火，静置 5 分钟
-- Enjoy :)
+* place rice and water in the rice cooker container. When the index finger touches the rice, the water level should just cover half of the first knuckle of the index finger. 
 
-![rice_regularPot](./rice_regularPot.jpeg)
+## Step-by-step Instructions
 
-## 附加内容
+* Rinse the rice thoroughly.
+* Add the rice and water to the pot.
+* have the lid open or half open,cook the pot over high heat until the water boils
+* when boiling, cover the pot, turn to the lowest heat for 10-15 minutes (depending on your preference for softness). 
+* Do not open the lid during the process.
+* Serve. 
 
-[腐国人研究煮米饭，好想送他们个电饭煲！](https://www.bilibili.com/video/BV1RW411z7r9)
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。
+## Tips and Reference 
+
+
+<iframe width="500" height="375" src="http://www.youtube.com/embed/iUgOz5emQ94" frameborder="0" allowfullscreen></iframe>
