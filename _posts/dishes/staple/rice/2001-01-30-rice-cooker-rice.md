@@ -3,7 +3,7 @@ layout: post
 title:  "Rice Cooker Rice"
 date:   2000-01-30 07:00:06 -0500
 description:  Staple in Chinese Cuisine
-categories: [Staple,Rice]
+categories: [Staple, Rice]
 tags: [Rice]
 prepare_time: "15 minutes" 
 ---
