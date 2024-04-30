@@ -5,7 +5,7 @@ date:   2001-02-02 17:10:16 -0500
 description: Quick dish, low oil and low calorie, simple to make, estimated preparation time 30 minutes.
 
 categories: [Meat,Chichen]
-tags: [Chicken, Salad ]
+tags: [Chicken, Salad, Appetizer]
 prepare_time: "30 minutes" 
 
 ---

@@ -1,6 +1,17 @@
-# 梅菜扣肉的做法
+---
+layout: post
+title:  "Braised Pork Belly with Preserved Mustard Vege"
+date:   2001-10-11 07:00:06 -0500
 
-梅菜扣肉造型别致、大方得体，颜色酱红油亮，汤汁黏稠鲜美，扣肉肥而不腻，食之软烂醇香。
+categories: [Meat,Pork]
+tags: [Pork, Entrée]
+prepare_time: "75 minutes" 
+---
+
+
+
+
+Braised Pork Belly with Preserved Mustard Vege is elegant and tasteful, with a rich reddish color and glossy appearance. The thick and delicious gravy complements the tender and flavorful pork, providing a satisfying and delectable dining experience.
 
 ## 必备原料和工具
 
