@@ -1,6 +1,21 @@
+---
+layout: post
+title:  "冬瓜酿肉的做法"
+date:   2001-02-02 17:10:16 -0500
+description: Quick dish, low oil and low calorie, simple to make, estimated preparation time 30 minutes.
+
+categories: [Meat,Chichen]
+tags: [Chicken, Salad, Appetizer]
+prepare_time: "30 minutes" 
+
+---
+
+
+
+
 # 冬瓜酿肉的做法
 
-![冬瓜酿肉成品](./冬瓜酿肉成品.jpg)
+
 
 荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。
 
@@ -36,26 +51,26 @@
 
 - 冬瓜去皮，切成 25cm 长 3cm 厚的片
 
-![冬瓜形状](./冬瓜形状.jpg)
+
 
 - 将切好的冬瓜放入碗中，放入 15g 盐，将冬瓜抹匀，放置 10 分钟
 - 放置冬瓜的同时，换个碗放入肉末，葱姜末， 5g 盐，淀粉 5g，胡椒粉，生抽，胡椒粉
 - 使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比（约 2 分钟）
 - 将腌制好的冬瓜（会变软）使用清水洗三遍
 
-![腌制好的冬瓜](./腌制好的冬瓜.jpg)
+
 
 - 拿出 1 片冬瓜片卷起来，并把肉塞进去
 
-![卷肉](./卷肉.jpg)
+
 
 - 放入碟子中摆到碟子的边缘
 
-![摆盘](./摆盘.jpg)
+
 
 - 打入 1 个鸡蛋到中间圆圈处
 
-![打鸡蛋](./打鸡蛋.jpg)
+
 
 - 放入普通铁锅中水烧开后，蒸 15 分钟，盖上锅盖
 - 开盖，取出蒸好的冬瓜酿肉
@@ -67,4 +82,4 @@
 - 操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。
 - 参考资料：[b站视频](https://www.bilibili.com/video/BV1oF411F7wD?spm_id_from=333.337.search-card.all.click&vd_source=9f568660d497311d3f945e5dce319705)
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。
+

@@ -13,58 +13,48 @@ prepare_time: "75 minutes"
 
 Braised Pork Belly with Preserved Mustard Vege is elegant and tasteful, with a rich reddish color and glossy appearance. The thick and delicious gravy complements the tender and flavorful pork, providing a satisfying and delectable dining experience.
 
-## 必备原料和工具
+## Essential Ingredients, serving size and Tools
 
-* 五花肉
-* 梅菜
-* 五香粉
-* 食用油
-* 白砂糖
-* 老抽
-* 生抽
-* 小米椒
-* 蒜末
-* 食用盐
-* 鸡精
+The serving size provided is suitable for 2 adults.
 
-## Quantitative calculation
+* Pork belly with skin on  - 1 1/2 lbs
+* [Meigan cai](https://en.wikipedia.org/wiki/Meigan_cai){:target="_blank"}  -  50 grams [^1]
+* [five-spice powder](https://amzn.to/3JBHvOI){:target="_blank"} - 1/4 tsps
+* Cooking oil  -2 tbsps
+* Surgar  - 5g
+* [dark soy sauce](https://amzn.to/3WgeBuZ){:target="_blank"}  - 2 tbsps
+* [light soy sauce](https://amzn.to/3WetE8o){:target="_blank"} -1 1/2 tbsps
+* Millet pepper - 1 each (diced)
+* Fresh Garlic - 10 grams (diced)
+* Salt -  3 grams
 
-每份：
+* [wok](https://amzn.to/44jbwfS){:target="_blank"}
+* [steamer](https://amzn.to/44k9j3M){:target="_blank"} 
 
-* 五花肉 200 g
-* 梅菜 30 g
-* 五香粉 2 g
-* 食用油 300 ml
-* 白砂糖 5 g
-* 老抽  30 ml
-* 生抽  20 ml
-* 小米椒  1 个
-* 蒜末 10 g
-* 食用盐 2 g
-* 鸡精 2 g
+Before beginning, determine the number of servings you plan to make. If serving more than 2 people, adjust the ingredient quantities accordingly. 
 
-## 操作
 
-* 梅菜放到清水中，浸泡 1 小时
-* 锅中倒入 50 ml 食用油，将整个五花肉猪皮朝下，放到锅中 1 分钟 ，取出挂掉猪皮 【可选】
-* 锅中加入开水，放入五花肉，大火煮 20 分钟 （筷子可以插进五花肉），取出五花肉
-* 在五花肉表面涂抹均匀老抽、五香粉、白砂糖，放置 15 分钟
-* 起锅烧油，加入五花肉，中火油炸直至两面金黄色（3-5 分钟）
-* 起锅烧油，倒入梅菜，加上小米椒、蒜蓉、鸡精、食用盐后翻炒，直至炒干梅干菜水分
-* 五花肉切片（后端 0.5-1 cm）,放在大碗中，散上梅干菜
-* 中火蒸 45 分钟
-* 拿个盘子倒盖在五花肉大碗中，将五花肉倒在盘子中
 
-![示例菜成品](./1.jpeg)
-![示例菜成品](./2.jpeg)
-![示例菜成品](./3.jpeg)
-![示例菜成品](./4.jpeg)
 
-## 附加内容
+## Step-by-step Instructions
 
-* 制作过程中发现，脆皮五花肉真香 Orz~
-* 不喜欢吃甜的可以去掉白砂糖，不影响主流程
-* 倒数第二个步骤，可以根据个人喜好调整时间
-* 炒干梅干菜的作用是为了后续吸油（盲猜）
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。
+* Soak 50 grams of Meigan Cai (preserved mustard greens) in water for 1 hour.
+* Pour 1 tablespoon of cooking oil into a pot and set it to high heat. Place the whole pork belly, skin side down, and cook in the pot for 3-4 minutes or until the skin caramelizes. Remove the pork belly from the pot and drain excess oil.
+* Fill the pot with boiling water, add the pork belly, and boil over high heat for 20 minutes (test with chopsticks to ensure pork belly is cooked). Remove the pork belly.
+* Evenly spread dark soy sauce, five-spice powder, and sugar on the surface of the pork belly, and let it sit for 15 minutes.
+* Heat 1 tbsp cooking oil in a wok, add the pork belly, and fry over medium heat until both sides are golden brown (3-5 minutes). take out the meat.
+* Use the left over oil in a wok, add the Meigan Cai, along with chopped millet pepper, minced garlic and salt. Stir-fry until the moisture from the  Meigan Cai is evaporated.
+* Slice the pork belly (0.5-1 cm thick from the back end) and place it in a large bowl, then sprinkle the processed Meigan Cai on top.
+* Steam the dish over medium-high heat for 45 minutes in your steamer.
+
+* After completing the steaming process, allow it to cool down for about 20 minutes. Then, place a large plate upside down over the large bowl containing the pork belly, and flip the bowl to transfer the pork belly onto the plate.
+* Serve [^2].
+
+
+[^1]: [Maigan cai](https://amzn.to/3JIBcca){:target="_blank"} is avaiable on Amazon  
+[^2]:Goes very well with rice 
+
+
+
+---
