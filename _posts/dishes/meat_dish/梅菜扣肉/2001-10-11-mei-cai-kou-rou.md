@@ -24,8 +24,8 @@ The serving size provided is suitable for 2 adults.
 * Surgar  - 5g
 * [dark soy sauce](https://amzn.to/3WgeBuZ){:target="_blank"}  - 2 tbsps
 * [light soy sauce](https://amzn.to/3WetE8o){:target="_blank"} -1 1/2 tbsps
-* Millet pepper - 1 each (diced)
-* Fresh Garlic - 10 grams (diced)
+* Millet pepper - 1 each (minced)
+* Fresh Garlic - 10 grams (minced)
 * Salt -  3 grams
 
 * [wok](https://amzn.to/44jbwfS){:target="_blank"}

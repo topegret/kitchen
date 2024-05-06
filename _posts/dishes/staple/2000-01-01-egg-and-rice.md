@@ -32,8 +32,8 @@ Prior to preparation, assess the quantity of servings you intend to create.Each 
 * cooked cold steamed rice - 3 cups
 * Eggs - 2
 * Ham - 1 cup (diced) 
-* Cucumber - 0.5 ~ 1 cup（diced）
-* Carrot - 0.5 ~ 1 cup（diced）
+* Cucumber - 0.5 ~ 1 cup（minced）
+* Carrot - 0.5 ~ 1 cup（minced）
 * Cooking Oil - 2 ~ 2.5 tsps
 * Salt - 5g
 * Black Paper Powder - 8g

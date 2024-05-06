@@ -1,85 +1,63 @@
 ---
 layout: post
-title:  "冬瓜酿肉的做法"
-date:   2001-02-02 17:10:16 -0500
-description: Quick dish, low oil and low calorie, simple to make, estimated preparation time 30 minutes.
-
-categories: [Meat,Chichen]
-tags: [Chicken, Salad, Appetizer]
+title:  Steamed Winter Melon with Ground Pork
+date:   2010-10-01 12:11:16 -0500
+categories: [Meat, Pork]
+tags: [Pork, Winter Melon,Steamed]
+description: A combination of meat and vegetable, fresh, smooth and tender, simple to make. Typically takes 30 minutes.
 prepare_time: "30 minutes" 
 
 ---
+## Essential Ingredients and Tools
+
+- Winter melon	
+- Ground pork
+- Eggs
+- Green Onion
+- Ginger
+- [Ground white pepper](https://amzn.to/3QiMFTs){:target="_blank"}
+- Light Soy Source
+- [Starch](https://amzn.to/3QjM4kk){:target="_blank"} 
+
+## Quantitative Calculation
+
+Prior to preparation, assess the quantity of servings you intend to make. Each serving size caters to 2 adults.
+
+### Each Serving Size:
+- Winter melon	- 1/4 lbs
+- Ground pork -   1/2 lbs
+- 2 eggs  
+- Green Onion - 1 each 
+- Ginger  - 30 grams 
+- [Ground white pepper](https://amzn.to/3QiMFTs){:target="_blank"} -1 tsp
+- Light Soy Source -2 tsp
+- [Starch](https://amzn.to/3QjM4kk){:target="_blank"}  - 30 grams
+-  Salt - 20 grams
+
+Based on the above serving size and number of diners, calculate the proportion of ingredients used.
 
 
+## Step-by-step Instructions
+
+- Peel the winter melon and slice it into pieces that are 25cm long and 3cm thick.
+- Place the sliced winter melon in a bowl, add 15g of salt, mix well, and let it sit for 10 minutes.
+- While the winter melon is marinating, in another bowl, add ground pork, minced ginger and green onions, 5g of salt, 5g of starch, ground white pepper and  2 tsps of light soy sauce.
+- Stir in the bowl clockwise with chopsticks for about 2 minutes until all the ingredients mixed well 
+- Wash the marinated winter melon slices (they will become softer) three times with clean water.
+- Take each slice of winter melon and roll it up, then stuff the meat mixture inside.
+
+![Chichen Breast Salad Dish](assets/img/recipes/wintermelon-rollup.jpg){: width="200" height="135"  .shadow }
+- Place the rolled winter melon on the edge of a plate.
+- Crack the eggs into the center of the plate.
+
+![Chichen Breast Salad Dish](assets/img/recipes/wintermelon-pork-egg.jpg){: width="200" height="340"  .shadow }
 
 
-# 冬瓜酿肉的做法
+- Heat up a steamer , after the water boils, place the plate  in a steamer and cover the lid. keep high heat for 15 minutes.
+- Pour the soup from steaming into a pot, add 50 ml water and light soy sauce, heat it up. then add water starch [^1]  to thicken the sauce slightly.
 
+[^1]: to make water starch: pour 25 grams starch into 40 ml cold water, mix them well.  
 
+- Drizzle over the sauce on the winter melon rolls and serve.
 
-荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。
-
-## 必备原料和工具
-
-- 冬瓜
-- 猪肉末
-- 鸡蛋
-- 葱
-- 葱姜末
-- 胡椒粉
-- 生抽
-- 淀粉
-
-## Quantitative calculation
-
-每次制作前需要确定计划做几份。一份正好够 2 个人吃。
-
-每份：
-
-- 猪肉末 300g
-- 鸡蛋 1 个（可选,不习惯的人可能会有点腥）
-- 冬瓜 200g
-- 葱花（一根,约 20g）
-- 胡椒粉 5g
-- 生抽 10ml
-- 淀粉 5g
-- 水淀粉 25g（淀粉 25g,水 50ml）
-- 葱姜末（姜 3-4 片约 30g, 取上面一根葱花中的葱白部分即可）
-- 盐 20g
-
-## 操作
-
-- 冬瓜去皮，切成 25cm 长 3cm 厚的片
-
-
-
-- 将切好的冬瓜放入碗中，放入 15g 盐，将冬瓜抹匀，放置 10 分钟
-- 放置冬瓜的同时，换个碗放入肉末，葱姜末， 5g 盐，淀粉 5g，胡椒粉，生抽，胡椒粉
-- 使用筷子在肉末中进行顺时针搅拌，搅拌到食材颜色没有明显对比（约 2 分钟）
-- 将腌制好的冬瓜（会变软）使用清水洗三遍
-
-
-
-- 拿出 1 片冬瓜片卷起来，并把肉塞进去
-
-
-
-- 放入碟子中摆到碟子的边缘
-
-
-
-- 打入 1 个鸡蛋到中间圆圈处
-
-
-
-- 放入普通铁锅中水烧开后，蒸 15 分钟，盖上锅盖
-- 开盖，取出蒸好的冬瓜酿肉
-- 将冬瓜酿肉碟子的水倒入锅中，放入水淀粉，加入 50ml 清水倒入锅中烧开
-- 淋到冬瓜酿肉上
-
-## 附加内容
-
-- 操作时，拿出冬瓜酿肉时注意碟子很烫，小心操作。
-- 参考资料：[b站视频](https://www.bilibili.com/video/BV1oF411F7wD?spm_id_from=333.337.search-card.all.click&vd_source=9f568660d497311d3f945e5dce319705)
-
-
+---

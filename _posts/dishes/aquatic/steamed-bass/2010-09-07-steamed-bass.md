@@ -5,7 +5,7 @@ date:   2010-09-07 01:20:36 -0500
 description:  A quick fish dish, low in oil and calories, simple to make, very delicious. Estimated preparation time - 30 minutes.
 
 categories: [Fish,Bass]
-tags: [Fish, Bass, Steamer,Entrée ]
+tags: [Fish, Bass, Steamed , Entrée ]
 prepare_time: "30 minutes" 
 
 ---

@@ -1,3 +1,12 @@
+---
+layout: post
+
+title: Pressure cook
+toc: true 
+recipe: false
+---
+
+
 # 蒸（米）/炖（使用电饭煲/高压锅/电压力锅）
 
 ## 什么是压力锅

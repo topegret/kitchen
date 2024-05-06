@@ -1,3 +1,12 @@
+---
+layout: post
+
+title: How to 
+toc: true 
+recipe: false
+---
+
+
 # 如何决策吃什么
 
 如何决策吃什么也是我做菜之前一大难题。所以只能用数学描述一下了。
