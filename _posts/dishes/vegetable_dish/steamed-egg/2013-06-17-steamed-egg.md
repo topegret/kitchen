@@ -1,3 +1,16 @@
+---
+layout: post
+title:  " Steamed Egg Custard  "
+date: 2013-06-17 21:08:26 -0500
+description: Quick and easy to prepare
+categories: [Egg]
+tags: [Egg, Classic, Entrée, Steamed]
+prepare_time: "15 minutes" 
+---
+
+
+
+
 # 鸡蛋羹的做法
 
 ![鸡蛋羹成品](./鸡蛋羹.jpg)

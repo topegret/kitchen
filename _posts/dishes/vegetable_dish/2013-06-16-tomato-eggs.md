@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Tomato And Egg Stir Fry "
+date: 2013-06-16 21:08:26 -0500
+description: Quick and easy to prepare
+categories: [Vegetable,Tomato]
+tags: [Egg, Tomato, Classic]
+prepare_time: "15 minutes" 
+---
+
+
+
 # 西红柿炒鸡蛋的做法
 
 西红柿炒蛋是中国家常几乎最常见的一道菜肴。它的原材料易于搜集，制作步骤也较为简单，所以非常适合新厨师上手，是很多人学习做菜时做的第一道菜。

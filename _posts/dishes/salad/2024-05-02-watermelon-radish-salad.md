@@ -5,7 +5,7 @@ date:   2001-02-02 17:10:16 -0500
 description: Quick and easy dish, refreshing, simple to make, classic Chinese appetizer .Watermelon radishes are an heirloom variety of daikon radish that originated in Northern China. They have a white skin, a thin green outer rim, and a vibrant magenta interior. Watermelon radishes are firm and crunchy, with a mild, peppery flavor. 
 
 categories: [Salad, radish]
-tags: [Classic, Salad, Watermelon radish, appetizer]
+tags: [Classic, Salad, Watermelon radish, Appetizer]
 prepare_time: "30 minutes" 
 ---
 
