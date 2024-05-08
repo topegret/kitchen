@@ -2,20 +2,12 @@
 layout: post
 title:  " Steamed Egg Custard  "
 date: 2013-06-17 21:08:26 -0500
-description: Quick and easy to prepare
+description: Egg custard, also known as steamed egg, doesn't require complex ingredients. It's a simple, quick, and easy dish that can be enjoyed for breakfast or as a main meal. The preparation time is approximately 15 minutes.
 categories: [Egg]
 tags: [Egg, Classic, Entrée, Steamed]
 prepare_time: "15 minutes" 
 ---
 
-
-
-
-# 鸡蛋羹的做法
-
-![鸡蛋羹成品](./鸡蛋羹.jpg)
-
-鸡蛋羹，又称水蒸蛋，不需要准备复杂的食材，是一道简单快捷易做的菜，当早餐或是正餐都可，制作时长约为 15 分钟。
 
 ## 必备原料和工具
 
@@ -59,4 +51,3 @@ prepare_time: "15 minutes"
 
 上面介绍的是基础水蒸蛋做法，可以在此基础上派生，添加诸如火腿肠、肉馅、虾皮等材料，丰富鸡蛋羹的口感。
 
-如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。
