@@ -13,3 +13,7 @@ title: advanced knowledge
 - [liang ban  ]({% post_url tips/learn/2002-02-12-liang-ban %}) 
 
 - [jian chao ]({% post_url tips/learn/2002-02-12-jian-chao %}) 
+
+- [zhu ]({% post_url tips/learn/2002-02-12-zhu %}) 
+
+- [zheng]({% post_url tips/learn/2020-02-12-zheng %}) 
