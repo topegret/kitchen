@@ -1,45 +1,43 @@
 ---
 layout: post
-order: 5
+order: 4
 title: Pressure cook
 toc: true 
 recipe: false
 ---
 
+## What is a Pressure Cooker
 
-# 蒸（米）/炖（使用电饭煲/高压锅/电压力锅）
+A pressure cooker is essentially a regular pot with a lockable semi-sealed lid equipped with a valve to control the pressure inside the pot.
 
-## 什么是压力锅
+### How It Works
 
-压力锅其实是一般的锅加上可锁紧的半密封盖，盖上有阀门，可用于控制锅内的压力。
+The pressure cooker works by accumulating steam in the pot, increasing the pressure inside. As the pressure inside the pot increases, the boiling point of water also rises, allowing food with water content to be cooked at temperatures exceeding 100 ℃.
 
-### 工作方式
+### Advantages
 
-压力锅的工作方式是让蒸汽积聚在锅中，提高锅内的压力。锅内压力提高时，水的沸点也随之提高，可使含水的食物烹煮温度超过 100 ℃。
+* Due to the higher actual cooking temperature of the pressure cooker, cooking time can be significantly reduced.
+* The high temperature inside the pressure cooker promotes browning and caramelization, creating a unique flavor.
 
-### 优点
+## Process
 
-* 由于压力锅的实际烹饪温度较高，因此可以大幅缩短烹饪时间。
-* 压力锅内部的高温可促进褐变和焦糖化，能够产生独有的风味。
+* After placing ingredients and water into the inner pot, close the lid **ensuring the pot is sealed**, then heat.
+* For tougher ingredients, such as tendons, using a pressure cooker can easily soften them, resulting in a better texture.
+* Pressure cookers usually have a self-locking valve (float valve). During cooking, as the pressure inside the pot increases, the self-locking valve will activate and lock, isolating the gas inside and outside the pot, creating conditions for pressurization inside the pot. After the self-locking valve is activated, it will also lock the lid, preventing forced opening, thus ensuring safety. During cooking, it is necessary to ensure that the self-locking valve is not obstructed by foreign objects to allow the pressure cooker to function properly.
+* Switch to the warm state, **empty the steam from the pot through the exhaust valve before opening the lid**.
 
-## 流程
+### Precautions
 
-* 食材和水放入内胆后盒盖，**确保锅体密封**，加热。
-* 对于韧性较大的食材，如蹄筋类食物，使用高压锅可以较轻松将其煮烂，获得较好口感。
-* 压力锅通常有一个自锁阀（浮子阀）。在蒸煮时，随着锅内压力增大，自锁阀会启动并锁闭，隔绝锅内与锅外气体，为锅内增压创造条件。自锁阀启动后还会锁住锅盖，防止强行打开，起到安全保障作用。在蒸煮时需要确认自锁阀不被异物遮挡，让高压锅正常工作。
-* 切换至保温状态后，**通过排气阀将锅内蒸汽排空方可开盖**。
+* **Steam is very hot, do not approach the exhaust valve.**
+* During the cooking process of **liquid foods**, **do not manually release the pressure** to avoid splashing (you can put the ingredients in a sealed jar or vacuum bag before cooking with a pressure cooker).
+* Releasing pressure manually during the cooking of certain cuisines (such as soups) **may affect the taste and texture** of the food.
+* Before opening the lid, make sure the steam has been released. When opening the lid, do not open it all at once, especially **do not open the lid facing a person directly** to avoid scalding from steam.
+* After the pressure cooker has finished cooking, as the pressure inside the pressure cooker decreases to balance with the outside pressure, the self-locking valve will loosen. This can serve as a sign to judge whether the lid can be opened.
+* The sealing of the pressure cooker depends on the sealing rubber ring in the lid. For old pressure cookers, it is necessary to check whether the sealing rubber ring is still effective.
+* Ensure the rubber ring is completely clean, as any particles trapped in it may damage the airtight environment.
+* Many pressure cookers have a safety line, and materials and liquids should not exceed this line. Too many ingredients and liquids may cause steam surges to block the exhaust valve or splash out too much steam, making it difficult to clean.
+* For pressure cookers without a safety line, it is also best not to let the water level exceed two-thirds of the pot body.
+* **Do not use pressure cookers to cook foods like oats or noodles that produce foam easily**. Foam may block the steam valve and pressure release pipe.
+* During the cooking process, when the pressure valve rises and emits steam or smoke, it indicates that the pressure inside the pressure cooker is excessive. To ensure safety, the pressure valve releases excess pressure. Although the steam emitted has a strong aroma and brings higher pleasure, the flavor of the food is compromised, and excessive pressure may bend the slots of certain types of pressure cookers. Therefore, when steam is emitted, reduce the heat.
 
-### 注意事项
 
-* **水蒸气很烫，不要凑到排气阀上。**
-* 烹饪**流质食物**的过程中，**不要手动排气**，小心喷溅（可以将食材放入密封罐或者真空包装袋中再用高压锅烹饪）。
-* 烹饪部分菜系（如汤类）手动放气**可能会影响食物的味道以及口感**。
-* 开盖前需确认蒸气已排空。开盖时请勿一次性全部打开，尤其是**不要对着人正面开盖**，以免蒸气烫伤。
-* 蒸煮完成后，随着高压锅内气压降低至与外界气压平衡，自锁阀会松开。这个可以作为锅盖是否能打开的判断标志。
-* 高压锅的密封依赖锅盖里的密封橡胶圈，对于老旧的高压锅需要检查密封橡胶圈是否仍然有效。
-* 确认橡胶圈完全干净，任何微粒卡在其中都可能破坏密闭环境。
-* 很多压力锅有一个安全线，材料和液体不应该超过这个线，太多的食材和液体可能会让水蒸气喷涌堵塞排气阀，或喷溅出太多水蒸气不好清理。
-* 没有安全线的压力锅，最好也不要让水位线超过锅体的 2/3。
-* **不要使用高压锅烹饪燕麦或者挂面等容易产生泡沫的食物**。泡沫可能会阻塞蒸汽阀和泄压管。
-* 烹饪过程中，当压力阀升高并喷出蒸汽或者烟雾时，说明高压锅内部过度加压，压力阀为了保证安全，释放出了多余的压力。尽管喷出的蒸汽带有浓郁的香味会带来较高的愉悦感，但一来食物的风味有损失，二来过度加压可能会使部分类型高压锅的卡槽弯曲。因此当看到喷出蒸汽时，可减小火力。
-* tips：从侧面开盖是一种不错的选择。

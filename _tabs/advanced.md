@@ -10,6 +10,9 @@ title: advanced knowledge
 
 - [chao shui]({% post_url tips/learn/2002-02-12-chao-shui %}) 
 - [qu xing ]({% post_url tips/learn/2002-02-12-qu-xing %}) 
+
+- [stir fry]({% post_url tips/learn/2002-02-12-jian-chao %}) 
+
 - [liang ban  ]({% post_url tips/learn/2002-02-12-liang-ban %}) 
 
 - [jian chao ]({% post_url tips/learn/2002-02-12-jian-chao %}) 
@@ -17,3 +20,10 @@ title: advanced knowledge
 - [zhu ]({% post_url tips/learn/2002-02-12-zhu %}) 
 
 - [zheng]({% post_url tips/learn/2020-02-12-zheng %}) 
+
+- [safety]({% post_url tips/learn/2020-02-12-safty %}) 
+
+
+- [presure cook]({% post_url tips/learn/2002-02-12-pressure-cook %}) 
+
+- [Yan]({% post_url tips/learn/2020-02-12-yan %}) 
